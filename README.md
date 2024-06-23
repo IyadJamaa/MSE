@@ -1,11 +1,9 @@
+//to download dep
+npm install 
 
-# MERN Stack AI Chatbot
+//to run 
+npm run dev 
 
-This is an AI Chatbot application, inspired by ChatGPT, by using MERN Stack and OpenAI
-
-It's a customized chatbot where each message of the user is stored in DB and can be retrieved and deleted.
-
-It's a completely secure application using JWT Tokens, HTTP-Only Cookies, Signed Cookies, Password Encryption, and Middleware Chains.
-
-Contributions are welcome
+//help 
+https://www.youtube.com/watch?v=wrHTcjSZQ1Y&t=1132s
 
